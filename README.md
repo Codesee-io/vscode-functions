@@ -57,4 +57,4 @@ CodeSee Function Maps is a paid product, part of the CodeSee Enterprise plan. Yo
 
 ## Copyright
 
-Copyright (C) 2023 CodeSee
+Copyright (C) 2023 [CodeSee](https://codesee.io)
